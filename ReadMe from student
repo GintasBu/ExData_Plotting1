@@ -1,0 +1,2 @@
+8 files submitted as per instructions. Before testing R scripts make sure you have data file in working directory. If the data file is already unzipped in original format and name, just run the script. 
+ However, if data file is unzipped, remove hashtag symbol "#" at the beginning of Line2 on every script, save it, then run. This Line 2 unzips data file if needed.
